@@ -1,0 +1,15 @@
+Name and Surname Student Number
+
+Anna bella Sithole 202603572
+Corlett Philasande Mabuza 202601896
+Masilo Nimrod Mohale 202422084
+Neo Madikizela 202557785 Group representative
+Nsovo Angricians Masinge 202605085
+Siyabulela Makhaluza 202604517
+Thando Ronaldo Ncube 202521994
+Tivani Shikwambana 202601001
+Mponisi Nkuna 202600066
+Vuxaka Ulenda Ngobeni 202608975
+Link to git repo:
+
+https://github.com/xx
