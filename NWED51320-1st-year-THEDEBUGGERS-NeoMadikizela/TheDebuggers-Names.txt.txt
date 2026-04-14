@@ -11,6 +11,6 @@ Tivani Shikwambana 202601001
 Mponiso Nkuna 202600066
 Vuxaka Ulenda Ngobeni 202608975
 
-Link to git repo:
+Link to git repo: https://github.com/NeoMadikizela/NWED51-TheDebuggers.git
 
 
